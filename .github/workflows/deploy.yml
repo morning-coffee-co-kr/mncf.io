@@ -3,7 +3,7 @@ name: Docker Image CI and Trigger Remote Docker Compose
 on:
   push:
     branches:
-      - develop
+      - master
 
 jobs:
   build:

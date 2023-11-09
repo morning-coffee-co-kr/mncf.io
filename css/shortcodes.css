@@ -409,7 +409,7 @@ footer .swiper-pagination {
 
 .disable-cursor .slider-button-prev::after {
   font: var(--fa-font-solid);
-  content: '&\f104;';
+  content: '\f104';
   font-size: 24px;
   width: 60px;
   height: 60px;

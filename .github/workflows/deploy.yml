@@ -28,7 +28,7 @@ jobs:
         port: '22'
         script: |
           whoami
-          pwd
+          cd mncf.homepage.infra/dev
           sudo docker-compose stop
           sudo docker rmi ${{ secrets.DOCKER_USERNAME }}/mncf-homepage:latest
           sudo docker pull ${{ secrets.DOCKER_USERNAME }}/mncf-homepage

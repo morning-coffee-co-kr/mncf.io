@@ -31,4 +31,4 @@ jobs:
           sudo docker-compose stop
           sudo docker rmi ${{ secrets.DOCKER_USERNAME }}/mncf-homepage:latest
           sudo docker pull ${{ secrets.DOCKER_USERNAME }}/mncf-homepage
-          sudo docker-compose up --build -d
+          sudo docker-compose up --build -d 

@@ -2879,3 +2879,13 @@ input[type='submit'] {
   background-position: center;
   background-size: 100%;
 }
+.index-main-title {
+  font-weight: 600;
+  line-height: 80%;
+  letter-spacing: -8.5px;
+  text-transform: none !important;
+}
+.index-bold {
+  font-weight: 800;
+  left: 0 !important;
+}

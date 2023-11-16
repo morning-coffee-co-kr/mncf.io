@@ -1822,7 +1822,6 @@ header {
   height: 50px;
   width: auto;
   max-width: none;
-  filter: drop-shadow(1px 1px 6px #ffffff);
 }
 
 #logo img.black-logo {
@@ -1963,7 +1962,7 @@ nav.open {
     border-left: medium none;
     color: #222;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 800;
     line-height: 24px;
     display: block;
     overflow: hidden;

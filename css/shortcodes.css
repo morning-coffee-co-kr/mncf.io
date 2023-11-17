@@ -2882,7 +2882,7 @@ input[type='submit'] {
 .index-main-title {
   font-weight: 600;
   line-height: 80%;
-  letter-spacing: -8.5px;
+  letter-spacing: -0.5vw;
   text-transform: none !important;
 }
 .index-bold {

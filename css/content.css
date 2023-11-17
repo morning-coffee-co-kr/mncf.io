@@ -180,7 +180,8 @@
   padding: 0;
   color: #222;
   line-height: 85%; /* 195.5px */
-  letter-spacing: -8.95px;
+
+  letter-spacing: -0.5vw;
 }
 
 .uppercase-text .hero-title {

@@ -2889,3 +2889,6 @@ input[type='submit'] {
   font-weight: 800;
   left: 0 !important;
 }
+.bold {
+  font-weight: 800;
+}

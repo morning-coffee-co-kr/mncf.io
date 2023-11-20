@@ -2892,3 +2892,10 @@ input[type='submit'] {
 .bold {
   font-weight: 800;
 }
+.outline-stroke {
+  font-size: 8vw;
+  letter-spacing: -0.3vw;
+  color: transparent !important;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}

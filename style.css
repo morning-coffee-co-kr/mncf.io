@@ -742,7 +742,8 @@ h4 {
 }
 
 h5 {
-  font-size: calc(1rem + 0.3vw);
+  font-size: calc(1rem + 1vw);
+  font-weight: 800;
   line-height: calc(1rem + 1.4vw);
 }
 

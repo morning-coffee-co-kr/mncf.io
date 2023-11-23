@@ -2923,3 +2923,10 @@ input[type='submit'] {
   line-height: 120px;
   white-space: nowrap;
 }
+/* project background  */
+.project-bg.p04 {
+  background-image: url(../images/projects/character/mega-12.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30%;
+}

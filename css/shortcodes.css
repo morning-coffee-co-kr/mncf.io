@@ -2930,3 +2930,29 @@ input[type='submit'] {
   background-position: right;
   background-size: 30%;
 }
+.project-bg.p05 {
+  background-image: url(../images/projects/zepeto/zepeto-title-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+.project-bg.p06 {
+  background-image: url(../images/projects/character/mega-12.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30%;
+}
+.project-bg.p07 {
+  background-image: url(../images/projects/character/mega-12.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30%;
+}
+.project-bg.p08 {
+  background-image: url(../images/projects/ulsan/ulsan-title-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-x: -1rem;
+  background-position-y: -1rem;
+  background-size: 80%;
+}
